@@ -12,4 +12,3 @@ A password generator is a tool that creates secure passwords by randomly selecti
 3️⃣ **All characters are combined and shuffled to enhance randomness**  
 4️⃣ **The final password is displayed**  
 
-💡 **A strong password is key to digital security! Let me know if you need improvements in your code.** 🔥😃
